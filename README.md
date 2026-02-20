@@ -1,2 +1,2 @@
-# Rust_ASCII_Aquarium
+# Rust_ASCII
 ASCII and rust
